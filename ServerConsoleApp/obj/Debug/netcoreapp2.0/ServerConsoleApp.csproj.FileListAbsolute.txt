@@ -1,0 +1,22 @@
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.deps.json
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.runtimeconfig.json
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.runtimeconfig.dev.json
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.dll
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.pdb
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.AssemblyInfoInputs.cache
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.AssemblyInfo.cs
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.dll
+c:\users\mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.pdb
+C:\Users\Mika\documents\visual studio 2017\Projects\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.deps.json
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.runtimeconfig.json
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.runtimeconfig.dev.json
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.dll
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\bin\Debug\netcoreapp2.0\ServerConsoleApp.pdb
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.csprojAssemblyReference.cache
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.AssemblyInfo.cs
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.dll
+C:\Users\m_vitikainen\Downloads\ServerConsoleApp\ServerConsoleApp\obj\Debug\netcoreapp2.0\ServerConsoleApp.pdb
